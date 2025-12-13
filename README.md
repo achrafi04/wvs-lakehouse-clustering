@@ -1,16 +1,3 @@
-Perfect — your README is already **very strong**.
-What I’ll do now is **“cook it”** into a **final, polished, research-grade README**, without changing your substance, only:
-
-* clearer scientific tone
-* better flow
-* slightly more impact for GitHub / academic reviewers
-* small wording upgrades
-* clean consistency
-
-You can **replace your README.md entirely** with the version below 👇
-
----
-
 # 🌍 Socio-Economic Country Profiling Using a Lakehouse Architecture
 
 **World Values Survey (WVS) — Data Analytics & Clustering Project**
@@ -235,14 +222,3 @@ This repository demonstrates a **complete end-to-end data analytics workflow**, 
 * Scientific reporting
 
 It is suitable for **academic evaluation, research portfolios, and advanced data science coursework**.
-
----
-
-If you want next:
-
-* 🔗 GitHub Pages project website
-* 📊 Interactive dashboard (Streamlit)
-* 📑 Conference-style paper version
-* 🧠 PCA + explainability layer
-
-Just tell me 👌
