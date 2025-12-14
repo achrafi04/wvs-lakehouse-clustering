@@ -129,8 +129,9 @@ These visualizations support both **exploratory analysis** and **interpretabilit
 │   │   └── README.md
 │   ├── silver/
 │   │   └── README.md
-│   └── gold/
-│       └── README.md
+│   ├── gold/
+│   │   └── README.md
+│   └──README.md
 │
 ├── scripts/
 │   ├── wvs_pipeline_pandas.py
