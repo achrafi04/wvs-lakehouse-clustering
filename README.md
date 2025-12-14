@@ -146,7 +146,7 @@ These visualizations support both **exploratory analysis** and **interpretabilit
 │   └── cluster_distribution.png
 │
 ├── report/
-│   └── WVS_Lakehouse_Clustering_Report.tex
+│   └── wvs_lakehouse_report.pdf
 │
 └── README.md
 ```
